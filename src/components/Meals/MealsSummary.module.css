@@ -1,0 +1,25 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20vh;
+  /* background-color: magenta; */
+}
+
+.mealContainer {
+  text-align: center;
+  background-color: #40513B;
+  padding: 2rem;
+  border-radius: 5px;
+}
+
+.mealContainer h2 {
+  margin-bottom: 2rem;
+  color: #EDF1D6;
+}
+
+.mealContainer p {
+  line-height: 1.7;
+  color: #EDF1D6;
+}

@@ -1,0 +1,22 @@
+.form {
+  padding: .5rem 1rem;
+}
+
+.input {
+  /* width: 100%; */
+  color: #40513B;
+  padding: .5rem 1rem;
+  font-weight: bold;
+  background-color: #EDF1D6;
+  outline: none;
+  border: none;
+}
+
+.button {
+  padding: .5rem;
+  cursor: pointer;
+  color: inherit;
+  background-color: #40513B;
+  outline: none;
+  border: none;
+}
