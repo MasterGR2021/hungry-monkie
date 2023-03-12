@@ -34,10 +34,9 @@ const MealItemForm = (props) => {
         step="1"
         min="1"
         max="5"
-        value={1}
+        defaultValue={1}
       />
       <button className={classes.button}>+ Add</button>
-      {!amountIsValid && <p>Please enter a valid amount.</p>}
     </form>
   );
 };
